@@ -1,0 +1,6 @@
+{
+    "config": {
+        "server-time-get": 10000,
+        "device-time-measurement": 10000
+    }
+}
