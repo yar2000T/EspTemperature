@@ -45,13 +45,6 @@ Here is a photo of the schema that is used:
 - [x] Write cpp for board
 - [x] Write python script
 - [ ] Create unit tests
-- [ ] More optimized code
-
-
-## Security
-You can verify a SHA512 of files. (Online [tool](https://hash-file.online/ "tool") for file hashing)
-app.py hash: `493227394ccea12088e84e78861fb3de0b22315b406879b221f091ffa3155ff95728b368980dedad60c5384a6c0309122affe19915ca7dba447597b2d69b261f`
-
-server.py hash: `465175f6fcb75cff84b0aa156c42edd6563ad48283a8ca3c47c3f8ba68bb5fdb1564d7dd00baa6623e2346ae53e3ee719c348530be8800d602d18f9a1531d5eb`
+- [x] More optimized code
 
 ### End
